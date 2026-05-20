@@ -675,4 +675,4 @@ This package is licensed under the MIT License - see the LICENSE file for detail
 ## Contact
 
 If you have any questions, suggestions, or issues, please open an issue on GitHub:
-[https://github.com/KANAGARAJ-M/gradient_color_and_styles/issues](https://github.com/KANAGARAJ-M/gradient_color_and_styles/issues)
+[https://github.com/bluedev-in/gradient_color_and_styles/issues](https://github.com/bluedev-in/gradient_color_and_styles/issues)
